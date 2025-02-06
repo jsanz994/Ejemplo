@@ -16,5 +16,6 @@ void main(){
 
     counter.decrement();
     expect(counter.count, -1);
+    
   });
 }
